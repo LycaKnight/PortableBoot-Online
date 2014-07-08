@@ -44,7 +44,7 @@ ECHO  I 					   					    I
 ECHO  I  	            FÅr die Anzeige des Chancelogs bitte [log] eingeben.            I
 ECHO  I                     Fehler bitte an tbrummer@itfischer.de senden		    I
 ECHO  +----------------------------------------------------------------------------------+
-ECHO  I			  Bitte eingeben und mit ENTER bestÑtigen                   I
+ECHO  I			  Bitte esfdsdf und mit ENTER bestÑtigen                   I
 ECHO  +----------------------------------------------------------------------------------+
 ECHO.
 
